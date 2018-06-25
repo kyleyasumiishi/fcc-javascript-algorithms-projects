@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures Projects
 
-This repository contains my solutions to the algorithm scripting challenge projects in freeCodeCamp's JavaScript Algorithms and Data Structures curriculum (as of 6/22/2018).
+This repository contains my solutions to the algorithm scripting challenge projects in freeCodeCamp's JavaScript Algorithms and Data Structures curriculum (as of 6/24/2018).
 
 <b>JavaScript Programs</b>
 - Palindrome Checker
@@ -17,20 +17,9 @@ freeCodeCamp is a non-profit organization that consists of an interactive learni
 
 Learn more at <a href="https://www.freecodecamp.org/">freecodecamp.org</a>.
 
-## Lessons Learned
-
-My goal for each freeCodeCamp project and set of challenges is simply to learn about new web development concepts and practice my programming skills.
-
-Here are a few <em>new concepts</em> I learned and practiced by implementing these algorithms:
-
-
-
-
 ## Technologies Used
 
 * JavaScript (ES5 & ES6)
-* Mocha
-* Chai
 * Node.js
 * npm
 * git
